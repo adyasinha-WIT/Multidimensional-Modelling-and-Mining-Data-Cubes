@@ -1,6 +1,6 @@
 # Multidimensional Modelling and Mining Data Cubes
 
-Developed a comprehensive business intelligence (BI) solution for World Wide Importers, encompassing multidimensional modeling, data mining, and strategic recommendations. The project involved creating a multidimensional model for the WorldWideImportersDW data mart and designing data mining structures for the WWISales data mart to support effective decision-making.
+A group project where we developed a comprehensive business intelligence (BI) solution for World Wide Importers, encompassing multidimensional modeling, data mining, and strategic recommendations. The project involved creating a multidimensional model for the WorldWideImportersDW data mart and designing data mining structures for the WWISales data mart to support effective decision-making.
 
 Technologies Used:
 
